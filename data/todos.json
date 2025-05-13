@@ -1,0 +1,17 @@
+{
+    "tasks": [
+      {
+        "id": "1",
+        "text": "Buy some oranges"
+      },
+      {
+        "id": "2",
+        "text": "Learn next.js "
+      },
+      {
+        "id": "email",
+        "text": "john@example.com"
+      }
+    ]
+  }
+  
